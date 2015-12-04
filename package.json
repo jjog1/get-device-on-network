@@ -1,0 +1,15 @@
+{
+  "name": "network-listener",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arp-table": "0.0.0",
+    "ping": "^0.1.10"
+  }
+}
